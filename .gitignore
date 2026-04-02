@@ -1,0 +1,30 @@
+# 数据集（体积大，勿提交）
+data/
+
+# 模型权重与检查点
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# 训练/测试结果（含 CSV、大图、权重等，体积大）
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统与杂项
+.DS_Store
+Thumbs.db
+*.log
