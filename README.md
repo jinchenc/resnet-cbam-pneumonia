@@ -249,11 +249,3 @@ class BasicBlockCBAM(nn.Module):
 - **ResNet**: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - **CBAM**: [Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521)
 
-## 许可证
-
-MIT License
-
----
-
-**作者**：jinchenc 
-**日期**：2026年4月
